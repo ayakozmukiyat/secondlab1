@@ -1,17 +1,13 @@
-# secondlab1
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
    <meta charset = "utf-8">
-   <title>Yoga</title>
+ 
   <!--Mukiyat Ayakoz.IT1-2016
   original site: https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%B0 -->
 <style>
 
-   table, th, td {
-                   border:1px solid black;
-                   border-collapse: collapse;
-                 }
+
    img {
         float: right;
        }
@@ -42,7 +38,7 @@
       более узком смысле, йога — одна из шести
     <a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B8%D0%B7%D0%BC">ортодоксальных школ</a> (даршан)<br>
     <a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F_%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D0%BC%D0%B0">
-        философии индуизма[2].</a> </p>
+        философии индуизма[2].</a> 
     <p style="font-family:arial;"> <font size="2"> Основные направления йоги:
     <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B6%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0"> раджа-йога,</a>
     <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0-%D0%B9%D0%BE%D0%B3%D0%B0"> карма-йога,</a>
@@ -71,43 +67,46 @@
      <br>
       сфере здравоохранения, медицины, образования и искусства, включила йогу в
       репрезентативный список нематериального<br> культурного наследия
-      человечества[7]. </p>
+      человечества[7]. 
 
-      <table style="width:20%">
-      <table style="background-color:white;">
-
-      <tr> <th>
-
-        <dl> Содержание
-        <dt><a href="https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%B0#%D0%AD%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F">1	Этимология</a></dt>
-        <dt> <a href="https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%B0#%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F">2	История</a></dt>
-        <dt><a href=
-        "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B3%D0%B0#%D0%98%D0%BD%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F">
-        2.1	Индская цивилизация</a></dt>
-        <dt>2.2	«Йога-сутры» Патанджали</dt>
-        <dt>2.3	Бхагавадгита</dt>
-        <dt>2.4	Хатха-йога</dt>
-        <dt>2.5	На Западе </dt>
-        <dt>2.6	В России </dt>
-        <dt>3	Йога и буддизм</dt>
-        <dt>4	Йога и тантра </dt>
-        <dt>5	Йога и ислам </dt>
-        <dt>6	Йога и христианство </dt>
-        <dt>6.1	Йога и православие </dt>
-        <dt>6.2	Йога и католичество </dt>
-        <dt>7	Цель </dt>
-        <dt>8	Травматизм</dt>
-        <dt>9	См. также </dt>
-        <dt>10	Примечания </dt>
-        <dt>11	Литература </dt>
-        </dl>
-
-  </th> </tr> </table>
-</tr>
+      
+<table style="background-color:white;">
+<style type="text/css">
+.block1 {
+width: 200px;
+padding: 5px;
+padding-right: 20px;
+border: solid 1px black;
+float: left;
+}
+</style>
+<div class="block1">
+<dl><b>Содержание</b></dl>
+<dl style="font-size:95%;">
+<dt> 1. Этимология</dt>
+<dt> 2. История</dt>
+<dt> 2.1 Индская цивилизация</dt>
+<dt> 2.2 «Йога-сутры» Патанджали</dt>
+<dt> 2.3 Бхагавадгита</dt>
+<dt> 2.4    Хатха-йога</dt>
+<dt> 2.5    На Западе</dt>
+<dt> 3. Йога и буддизм</dt>
+<dt> 4. Йога и тантра</dt>
+<dt> 5. Йога и ислам</dt>
+<dt> 6. Йога и христианство</dt>
+<dt> 6.1    Йога и православие</dt>
+<dt> 6.2    Йога и католичество </dt>
+<dt> 7. Цель </dt>
+<dt> 8. Травматизм</dt>
+<dt> 9. См. также </dt>
+<dt> 10.    Примечания </dt>
+<dt> 11.    Литература </dt>
+</dl>
+</div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Patanjali.jpg/255px-Patanjali.jpg"
  alt="Trulli" width="170" height="238">
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 style="font-family:georgia;"> Этимология<hr></h2>
 
  <p style="font-family:arial;"> "<font size="2"> Слово «йога» произошло от
@@ -143,7 +142,7 @@
   «Шатапатха-брахмане»,<br> присутствуют идеи единения ума, тела и души с
   Абсолютом. В Упанишадах, наиболее раннее упоминание йоги и медитации можно
   обнаружить в<br> «Брихадараньяка-упанишаде»[14] — одной из древнейших упанишад,
-  датируемой учёными X — IX веком до н. э. и в Катха-упанишаде[15]: </p>
+  датируемой учёными X — IX веком до н. э. и в Катха-упанишаде[15]: 
    <tr> <th>
 
   <dl>
